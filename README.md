@@ -13,7 +13,7 @@ All you have to do is upload your resume and job description!
 5. **Gap analysis**: concrete follow-up actions for every gap, partial, and overqualification. Action types: `study`, `surface`, `reframe`, `accept`.
 
 
-![1782529762803](image/README/1782529762803.png)
+![SimScreen-AWD](SimScreen-AWD.png)
 
 Any step can serve as the entry point - The orchestrator detects missing prerequisites, prints a numbered plan, and runs the chain after explicit user confirmation.
 
